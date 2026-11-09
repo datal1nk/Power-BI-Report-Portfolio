@@ -1,2 +1,2 @@
 # Power-BI-Report-Portfolio
-A repository of the power bi reports I have created.
+A repository of the Power BI reports I have the ability to create. More coming soon! 
